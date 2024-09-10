@@ -48,7 +48,7 @@ The following figure shows the notebook of the project, run each cell under 1) -
 
 ### 2) Method 2 (Run the detection pipeline only)
 For running the detection pipeline only, you need to run both cells under:
-- (1)Import library
-- (2)Load train set and test set metadata
-- (6)Detection
+- (1) Import library
+- (2) Load train set and test set metadata
+- (6) Detection
 
