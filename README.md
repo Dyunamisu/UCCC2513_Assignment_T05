@@ -34,7 +34,7 @@ The following Python libraries installed:
 
 
 ## Running the Code
-### Method 1 (Run the training and detection pipeline)
+### 1) Method 1 (Run the training and detection pipeline)
 You need to run both cells under:
 1) Import library
 2) Load train set and test set metadata
@@ -46,7 +46,7 @@ The following figure shows the notebook of the project, run each cell under 1) -
 ![image](https://github.com/user-attachments/assets/82aafc75-5d1a-454f-a1dd-8e7450129816)
 
 
-### Method 2 (Run the detection pipeline only)
+### 2) Method 2 (Run the detection pipeline only)
 For running the detection pipeline only, you need to run both cells under:
 1) Import library
 2) Load train set and test set metadata
