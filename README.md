@@ -19,6 +19,7 @@ The following Python libraries installed:
 - os
 - sklearn (scikit-learn)
 - scipy
+- matplotlib
 
 | File/Folder Name               | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
