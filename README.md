@@ -23,14 +23,14 @@ The following Python libraries installed:
 | File/Folder Name               | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
 | `.ipynb_checkpoints/`           | Auto-generated checkpoints folder from Jupyter notebooks. Not manually edited.|
-| `TSRD-Test Annotation/`         | Contains annotation files (bounding boxes and labels) for the test dataset. |
+| `TSRD-Test Annotation/`         | Contains annotation files for the test dataset. |
 | `TSRD-Test/`                    | Contains test images for the traffic sign detection system.                 |
 | `TSRD-Train Annotation/`        | Contains annotation files for the training dataset.                         |
 | `tsrd-train/`                   | Contains training images for the traffic sign detection system.             |
 | `negative_samples/`             | Contains negative samples (non-traffic sign images) used for training or validation. |
 | `README.md`                     | This README file. Provides an overview of the project and instructions for usage. |
-| `UCCC2513_Assignment_T05_SourceCode.ipynb` | Jupyter Notebook containing the main source code for traffic sign detection and classification. |
-| `hog_svm__coef.npy`             | Pretrained SVM model coefficients used for traffic sign classification with HOG features. |
+| `UCCC2513_Assignment_T05_SourceCode.ipynb` | Jupyter Notebook containing the main source code for traffic sign detection. |
+| `hog_svm__coef.npy`             | Pretrained SVM model coefficients used for traffic sign detection with HOG features. |
 
 
 ## Running the Code
