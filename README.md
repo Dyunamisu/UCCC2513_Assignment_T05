@@ -36,19 +36,19 @@ The following Python libraries installed:
 ## Running the Code
 ### 1) Method 1 (Run the training and detection pipeline)
 You need to run both cells under:
-[1] Import library
-[2] Load train set and test set metadata
-[3] Crop negative samples and store the negative samples
-[4] Load training samples
-[5] Train SVM
-[6] Detection
+- (1) Import library
+- (2) Load train set and test set metadata
+- (3) Crop negative samples and store the negative samples
+- (4) Load training samples
+- (5) Train SVM
+- (6) Detection
 The following figure shows the notebook of the project, run each cell under 1) - 6) for the training and detection pipeline from UCCC2513_Assignment_T05_SourceCode.ipynb.
 ![image](https://github.com/user-attachments/assets/82aafc75-5d1a-454f-a1dd-8e7450129816)
 
 
 ### 2) Method 2 (Run the detection pipeline only)
 For running the detection pipeline only, you need to run both cells under:
-[1] Import library
-[2] Load train set and test set metadata
-[6] Detection
+- (1)Import library
+- (2)Load train set and test set metadata
+- (6)Detection
 
