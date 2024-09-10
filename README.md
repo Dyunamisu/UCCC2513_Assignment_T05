@@ -20,6 +20,7 @@ The following Python libraries installed:
 - sklearn (scikit-learn)
 - scipy
 - matplotlib
+- random
 
 | File/Folder Name               | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
