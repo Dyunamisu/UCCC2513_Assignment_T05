@@ -35,7 +35,7 @@ The following Python libraries installed:
 | `hog_svm__coef.npy`             | Pretrained SVM model coefficients used for traffic sign detection with HOG features. |
 
 
-## Running the Code
+## Running the Code in `UCCC2513_Assignment_T05_SourceCode.ipynb`
 ### 1) Method 1 (Run the training and detection pipeline)
 You need to run both cells under:
 - (1) Import library
