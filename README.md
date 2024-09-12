@@ -12,14 +12,20 @@
 
 ## Setup Instructions
 ### Prerequisites
+The IDE of the project is:
+- Jupyter Notebook 7.2.1
+
+The Programming Language project:
+- Python 3.10.8
+
 The following Python libraries installed:
-- pandas
-- cv2 (OpenCV)
-- numpy
-- os
-- sklearn (scikit-learn)
-- scipy
-- matplotlib
+- pandas 2.2.2
+- cv2 (OpenCV) 4.10.0
+- numpy 1.26.4
+- os 3.10.8 (os version follow Python version)
+- sklearn (scikit-learn) 1.5.1
+- scipy 1.14.0
+- matplotlib 3.9.0
 
 | File/Folder Name               | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
