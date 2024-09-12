@@ -26,6 +26,9 @@ The following Python libraries installed:
 - `sklearn (scikit-learn) 1.5.1`
 - `scipy 1.14.0`
 - `matplotlib 3.9.0`
+- `webbrowser 3.10.8 (os version follow Python version)`
+- `Base64 3.10.8 (os version follow Python version)`
+- `BytesIO 3.10.8 (os version follow Python version)`
 
 | File/Folder Name               | Description                                                                 |
 |---------------------------------|-----------------------------------------------------------------------------|
