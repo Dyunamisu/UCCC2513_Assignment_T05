@@ -39,6 +39,7 @@ The following Python libraries installed:
 | `UCCC2513_Assignment_T05_SourceCode.ipynb` | Jupyter Notebook containing the main source code for traffic sign detection. |
 | `hog_svm__coef.npy`             | Pretrained SVM model coefficients used for traffic sign detection with HOG features. |
 
+### You need to download all mentioned file/folder above into a same folder before running the code.
 
 ## Running the Code in `UCCC2513_Assignment_T05_SourceCode.ipynb`
 ### 1) Method 1 (Run the training and detection pipeline)
